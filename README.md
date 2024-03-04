@@ -1,16 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/XUsNR_oc)
-## Requirements for Group Project
-[Read the instruction](https://github.com/STIW3054-A222/class-activity-activityteam/blob/main/GroupProject.md)
-
-## Group Info:
-
-| Photo | Matric Number | Name                            | Phone Number |
-|-------|---------------|-----------------------------------|--------------|
-|![Screenshot - 10_7_2023 , 1_35_21 PM - Copy (3)](https://github.com/STIW3054-A222/groupproject-coding-hamsters/assets/73435522/76acfbd2-e4c6-4157-a7fd-20aa7b928a6f)| 274808        | Raihan Harits (Group Leader)        | 01128661928  |
-|![Screenshot - 10_7_2023 , 1_35_21 PM - Copy](https://github.com/STIW3054-A222/groupproject-coding-hamsters/assets/73435522/ebe829fe-6c55-4ed9-89e7-98079a51a725)| 279865        | Balqis Binti Sukria                  | 0174992624   |
-|![Screenshot - 10_7_2023 , 1_40_58 PM](https://github.com/STIW3054-A222/groupproject-coding-hamsters/assets/73435522/92582a2f-4ce3-4de6-bc74-e5c5f0a47118)| 280769        | Wardina Syadiyah binti Ahmad Ridhuan | 01137214866  |
-|![Screenshot - 10_7_2023 , 1_35_21 PM - Copy (2)](https://github.com/STIW3054-A222/groupproject-coding-hamsters/assets/73435522/9a6d5670-8e26-4268-b1f8-9c38bf887261)| 278415       | Nur Afiqah binti Mohd Amir           | 0184652795   |
-|![Screenshot - 10_7_2023 , 1_35_21 PM - Copy (4)](https://github.com/STIW3054-A222/groupproject-coding-hamsters/assets/73435522/08f868b8-6b36-45fc-ab66-188a6ce3c861)| 278062        | Nur Fatin Nasuha Binti Shamas        | 0124907860   |
+## This is group project.
 
 ## Title of your application (a unique title)
 Campus Bites Bot
